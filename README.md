@@ -1,5 +1,15 @@
 # 💫 About Me:
-i know the programming languages of C and studied data structures in C++ and studied OOP in java i know python and ai integration and api's i am well versed in the javascript MERN stack which means know react and mongo and mongoose and also express backend and also know html templating with ejs and also the bootstrap framework and also studied MySQL and i know git and github , i have some knowldge in SEO and also have studied apple swift programming, and also i am well versed in the linux command line 
+
+Software Engineering student with a strong foundation in systems and software development.
+Experienced in C and Data Structures (C++), with solid understanding of Object-Oriented Programming in Java.
+
+Full-stack developer using the MERN stack (MongoDB, Express, React, Node.js), with experience in building RESTful APIs and dynamic web applications using EJS and Bootstrap.
+
+Proficient in Python, API integration, and AI-powered feature integration.
+
+Familiar with MySQL, Git/GitHub, Linux command line, and basic SEO principles.
+
+Also experienced in Swift for iOS development.
 
 
 ## 🌐 Socials:
