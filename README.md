@@ -3,7 +3,7 @@
 Software Engineering student with a strong foundation in systems and software development.
 Experienced in C and Data Structures (C++), with solid understanding of Object-Oriented Programming in Java.
 
-Full-stack developer using the MERN stack (MongoDB, Express, React, Node.js), with experience in building RESTful APIs and dynamic web applications using EJS and Bootstrap.
+Full-stack developer using the MERN stack (MongoDB, Express, React, Node.js), with experience in building RESTful APIs and dynamic web applications using EJS and Bootstrap,plus the FastAPI + React stack (TypeScript, React).
 
 Proficient in Python, API integration, and AI-powered feature integration.
 
