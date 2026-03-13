@@ -7,7 +7,9 @@ Full-stack developer using the MERN stack (MongoDB, Express, React, Node.js), wi
 
 Proficient in Python, API integration, and AI-powered feature integration.
 
-Familiar with MySQL, Git/GitHub, Linux command line, and basic SEO principles.
+Familiar with MySQL, Git/GitHub, and basic SEO principles.
+
+Experienced with Linux-based development environments, shell tools, and command-line workflows for software development and automation.
 
 Also experienced in Swift for iOS development.
 
